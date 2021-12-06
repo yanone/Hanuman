@@ -46958,7 +46958,7 @@ note = uni17C0.b;
 },
 {
 glyphname = uni17B6.space;
-lastChange = "2021-04-25 04:09:00 +0000";
+lastChange = "2021-12-06 18:23:11 +0000";
 layers = (
 {
 layerId = "E37246A9-A376-4020-9DA5-E0C9FF7935B5";
@@ -46982,6 +46982,7 @@ width = 650;
 }
 );
 note = uni17B6.space;
+category = Letter;
 },
 {
 glyphname = uni1780_17B6;
